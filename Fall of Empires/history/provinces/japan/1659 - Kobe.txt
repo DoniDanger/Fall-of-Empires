@@ -1,0 +1,6 @@
+owner = YMN
+controller = YMN
+add_core = YMN
+add_core = ASK
+trade_goods = cattle
+life_rating = 35

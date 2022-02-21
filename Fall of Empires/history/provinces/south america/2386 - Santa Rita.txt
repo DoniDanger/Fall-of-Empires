@@ -1,0 +1,1 @@
+trade_goods = fruitterrain = steppelife_rating = 35

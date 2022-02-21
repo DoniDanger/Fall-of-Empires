@@ -1,0 +1,9 @@
+owner = AKK
+controller = AKK
+add_core = AKK
+add_core = IRQ
+add_core = SRN
+add_core = KDS
+trade_goods = wool
+life_rating = 35
+terrain = steppe

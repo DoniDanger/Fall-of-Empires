@@ -1,0 +1,62 @@
+leader = {
+	name = "von Heideck"
+	type = land
+	date="1833.1.1"
+	personality = romantic
+	background = poet
+	prestige = 0.1
+}
+
+leader = {
+	name = "Demetrios Kalergis"
+	type = land
+	date="1836.1.1"
+	personality = impetuous
+	background = cavalry_school
+}
+
+leader = {
+	name = "Ioannis Kolokotronis"
+	type = land
+	date="1833.1.1"
+	personality = aweless
+	background = powerful_friends
+	prestige = 0.1
+}
+
+leader = {
+	name = "Antonios Kriezis"
+	type = sea
+	date="1836.1.1"
+	personality = audacious
+	background = expert_raider
+}
+
+army = {
+	name = "Stratós Ipeirou"
+	location = 825
+	regiment = {
+		name= "5. Taxiarchia Pezikou"
+		type = infantry
+		home = 824
+	}
+
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = infantry
+		home = 825
+	}
+
+	regiment = {
+		name= "7. Taxiarchia Pezikou"
+		type = infantry
+		home = 827
+	}
+
+	regiment = {
+		name= "8. Taxiarchia Pezikou"
+		type = infantry
+		home = 837
+	}
+}
+

@@ -1,0 +1,63 @@
+objectTypes = {
+
+	EMFXActorType = {
+		name = "NorthAmericanGCInfantry"
+		actorfile = "gfx\anims\Generic_NA_1.xac"
+		
+		idle   = "gfx\anims\Generic_Western_1_Idle.xsm"
+		move   = "gfx\anims\Generic_Western_1_Moving.xsm"
+		attack = "gfx\anims\Generic_Muslim_1_Attack.xsm"
+		scale = 0.3
+	}
+	
+	EMFXActorType = {
+		name = "NorthAmericanGCInfantry2"
+		actorfile = "gfx\anims\Generic_NA_2.xac"
+		
+		idle   = "gfx\anims\Generic_SA_2_Idle.xsm"
+		move   = "gfx\anims\Generic_SA_2_Moving.xsm"
+		attack = "gfx\anims\Generic_SA_2_Attack.xsm"
+		scale = 0.3
+	}
+	
+	EMFXActorType = {
+		name = "NorthAmericanGCInfantry3"
+		actorfile = "gfx\anims\Generic_NA_3.xac"
+		
+		idle   = "gfx\anims\Generic_SA_3_Idle.xsm"
+		move   = "gfx\anims\Generic_SA_3_Moving.xsm"
+		attack = "gfx\anims\Generic_SA_3_Attack.xsm"
+		scale = 1.3
+	}
+	
+	EMFXActorType = {
+		name = "MesoamericanGCInfantry"
+		actorfile = "gfx\anims\Generic_SA_1.xac"
+		
+		idle   = "gfx\anims\Generic_Western_1_Idle.xsm"
+		move   = "gfx\anims\Generic_Western_1_Moving.xsm"
+		attack = "gfx\anims\Generic_Muslim_1_Attack.xsm"
+		scale = 1.3
+	}
+	
+	EMFXActorType = {
+		name = "MesoamericanGCInfantry2"
+		actorfile = "gfx\anims\Generic_SA_2.xac"
+		
+		idle   = "gfx\anims\Generic_SA_2_Idle.xsm"
+		move   = "gfx\anims\Generic_SA_2_Moving.xsm"
+		attack = "gfx\anims\Generic_SA_2_Attack.xsm"
+		scale = 1.3
+	}
+	
+	EMFXActorType = {
+		name = "MesoamericanGCInfantry3"
+		actorfile = "gfx\anims\Generic_SA_3.xac"
+		
+		idle   = "gfx\anims\Generic_SA_3_Idle.xsm"
+		move   = "gfx\anims\Generic_SA_3_Moving.xsm"
+		attack = "gfx\anims\Generic_SA_3_Attack.xsm"
+		scale = 1.3
+	}
+	
+}

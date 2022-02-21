@@ -1,0 +1,6 @@
+owner = CBA
+controller = CBA
+add_core = CBA
+add_core = ASK
+trade_goods = grain
+life_rating = 35

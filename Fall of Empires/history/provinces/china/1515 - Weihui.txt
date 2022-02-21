@@ -1,0 +1,5 @@
+owner = MNE
+controller = MNE
+add_core = MNE
+trade_goods = wool
+life_rating = 32

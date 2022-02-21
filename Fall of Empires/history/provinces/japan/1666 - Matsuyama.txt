@@ -1,0 +1,6 @@
+owner = KNO
+controller = KNO
+add_core = KNO
+add_core = ASK
+trade_goods = wool
+life_rating = 35

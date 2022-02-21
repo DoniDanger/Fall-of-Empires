@@ -1,0 +1,6 @@
+owner = MNE
+controller = MNE
+add_core = MNE
+trade_goods = tea
+life_rating = 32
+fort = 1

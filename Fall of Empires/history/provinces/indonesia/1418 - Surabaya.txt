@@ -1,0 +1,7 @@
+owner = MJA
+controller = MJA
+add_core = MJA
+add_core = JAV
+trade_goods = sulphur
+life_rating = 35
+

@@ -1,0 +1,8 @@
+owner = CLG
+controller = CLG
+add_core = CLG
+add_core = WES
+add_core = GER
+add_core = HRE
+trade_goods = cattle
+life_rating = 40

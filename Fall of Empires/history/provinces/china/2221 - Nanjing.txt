@@ -1,0 +1,10 @@
+owner = MNE
+controller = MNE
+add_core = MNE
+trade_goods = tea
+life_rating = 32
+1861.1.1 = {
+	controller = TPG
+	owner = TPG
+	
+}

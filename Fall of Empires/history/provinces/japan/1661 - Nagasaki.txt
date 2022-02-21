@@ -1,0 +1,7 @@
+owner = SHN
+controller = SHN
+add_core = SHN
+add_core = ASK
+trade_goods = fruit
+life_rating = 35
+naval_base = 1

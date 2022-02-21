@@ -1,0 +1,6 @@
+owner = MNE
+controller = MNE
+add_core = MNE
+add_core = GNG
+trade_goods = grain
+life_rating = 32

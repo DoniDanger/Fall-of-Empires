@@ -1,0 +1,6 @@
+owner = KAQ
+controller = KAQ
+add_core = KAQ
+add_core = MAY
+trade_goods = wool
+life_rating = 35

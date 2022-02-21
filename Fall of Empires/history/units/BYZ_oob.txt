@@ -1,0 +1,138 @@
+#Relations
+SER = {
+	value = -100
+}
+ALB = {
+	value = -175
+}
+BUL = {
+	value = -200
+}
+VEN = {
+	value = -150
+}
+OSM = {
+	value = -50
+}
+KRS = {
+	value = -25
+}
+KNI = {
+	value = -25
+}
+
+#GreekPuppets
+ATH = {
+	value = 100
+	level = 5
+	influence_value = 0
+}
+EPI = {
+	value = 75
+	level = 5
+	influence_value = 0
+}
+MOE = {
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+#Armies
+leader = {
+	name = "von Heideck"
+	type = land
+	date="1833.1.1"
+	personality = romantic
+	background = poet
+	prestige = 0.1
+}
+
+leader = {
+	name = "Demetrios Kalergis"
+	type = land
+	date="1836.1.1"
+	personality = impetuous
+	background = cavalry_school
+}
+
+leader = {
+	name = "Ioannis Kolokotronis"
+	type = land
+	date="1833.1.1"
+	personality = aweless
+	background = powerful_friends
+	prestige = 0.1
+}
+
+leader = {
+	name = "Antonios Kriezis"
+	type = sea
+	date="1836.1.1"
+	personality = audacious
+	background = expert_raider
+}
+
+army = {
+	name = "Stratós Constantinople"
+	location = 860
+	regiment = {
+		name= "1. Taxiarchia Pezikou"
+		type = infantry
+		home = 860
+	}
+
+	regiment = {
+		name= "2. Taxiarchia Pezikou"
+		type = infantry
+		home = 860
+	}
+
+	regiment = {
+		name= "3. Taxiarchia Pezikou"
+		type = infantry
+		home = 860
+	}
+
+	regiment = {
+		name= "4. Taxiarchia Pezikou"
+		type = infantry
+		home = 828
+	}
+	
+	regiment = {
+		name= "1. Taxiarchia Ippiko"
+		type = cavalry
+		home = 859
+	}
+	
+	regiment = {
+		name= "2. Taxiarchia Ippiko"
+		type = cavalry
+		home = 805
+	}
+
+	regiment = {
+		name= "1. Taxiarchia Pyrovoliko"
+		type = artillery
+		home = 806
+	}
+
+	regiment = {
+		name= "2. Taxiarchia Pyrovoliko"
+		type = artillery
+		home = 806
+	}
+
+	regiment = {
+		name= "3. Taxiarchia Pyrovoliko"
+		type = artillery
+		home = 807
+	}
+
+	regiment = {
+		name= "4. Taxiarchia Pyrovoliko"
+		type = artillery
+		home = 807
+	}
+}

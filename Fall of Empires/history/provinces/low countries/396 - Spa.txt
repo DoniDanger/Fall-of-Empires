@@ -1,0 +1,8 @@
+owner = LIE
+controller = LIE
+add_core = LIE
+add_core = RHI
+add_core = GER
+add_core = HRE
+trade_goods = coal
+life_rating = 35

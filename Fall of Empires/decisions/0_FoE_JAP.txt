@@ -1,0 +1,95 @@
+political_decisions = {
+
+	sieze_kyoto = {
+			picture = osaka_castle
+			potential = {
+			primary_culture = japanese
+			NOT = { tag = ASK }
+			NOT = { has_country_flag = kyoto_siezed }
+			ASK = { exists = yes }
+			exists = yes
+		}
+		
+		allow = {
+			war = no
+			is_vassal = no
+			OR = {
+			1655 = { owned_by = THIS }
+			1658 = { owned_by = THIS }
+			1647 = { owned_by = THIS }
+			3326 = { owned_by = THIS }
+			3328 = { owned_by = THIS }
+			1675 = { owned_by = THIS }
+			}
+		}
+		
+		effect = {
+			set_country_flag = kyoto_siezed
+			ASK = {
+				relation = {
+					value = -400
+					who = THIS
+				}
+			}
+			1657 = { add_core = THIS }
+			badboy = 15
+		}
+		
+		ai_will_do = { factor = 1 }
+	}
+
+	unify_japan_ashikaga = {
+			picture = shogun
+			potential = {
+			primary_culture = japanese
+			tag = ASK 
+			NOT = { has_country_flag = japan_reunified_ashikaga }
+			ASK = { exists = no }
+			exists = yes
+		}
+		
+		allow = {
+			war = no
+			is_vassal = no
+			ASK = { all_core = { owned_by = THIS } } 
+		}
+	
+		effect = {
+			set_country_flag = japan_reunified_ashikaga 
+			AIN = { all_core = { add_core = THIS } }
+			prestige = 45
+		}
+		
+		ai_will_do = { factor = 1 }
+	}
+
+	claim_title_shogunate = {
+			picture = shogun
+			potential = {
+			primary_culture = japanese
+			NOT = { tag = ASK }
+			NOT = { has_country_flag = shogunate_title_claimed }
+			ASK = { exists = no }
+			exists = yes
+		}
+		
+		allow = {
+			war = no
+			is_vassal = no
+			1657 = { owned_by = THIS }
+		}
+		
+		effect = {
+			set_country_flag = shogunate_title_claimed
+			ASK = {
+				all_core = {
+					add_core = THIS
+					remove_core = ASK
+				}
+			}
+			prestige = 45
+		}
+		
+		ai_will_do = { factor = 1 }
+	}
+}

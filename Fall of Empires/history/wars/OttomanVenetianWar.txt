@@ -1,0 +1,30 @@
+name = "2nd Ottoman-Venetian War"
+
+1499.1.1 = {
+	add_attacker = TUR
+	add_defender = VEN
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = acquire_core_state
+		state_province_id = 851
+		actor = TUR
+		receiver = VEN
+	}
+
+	war_goal = {
+		casus_belli = acquire_state
+		state_province_id = 827
+		actor = VEN
+		receiver = TUR
+	}
+}
+
+1836.6.6 = {
+	rem_attacker = TUR
+	rem_defender = VEN
+}

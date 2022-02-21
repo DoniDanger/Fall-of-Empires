@@ -1,0 +1,6 @@
+owner = CHT
+controller = CHT
+add_core = CHT
+add_core = MAY
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,6 @@
+owner = ITO
+controller = ITO
+add_core = ITO
+add_core = ASK
+trade_goods = cattle
+life_rating = 35

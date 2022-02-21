@@ -1,0 +1,6 @@
+owner = TTI 
+controller = TTI 
+add_core = TTI 
+add_core = ASK
+trade_goods = grain
+life_rating = 35

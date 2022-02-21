@@ -1,0 +1,6 @@
+owner = RFR
+controller = RFR
+add_core = RFR
+add_core = ASK
+trade_goods = fruit
+life_rating = 35

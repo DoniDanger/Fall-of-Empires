@@ -1,0 +1,11 @@
+owner = FLR
+controller = FLR
+add_core = FLR
+add_core = ITA
+trade_goods = fruit
+life_rating = 40
+#state_building = {
+#	level = 1
+#	building = glass_factory
+#	upgrade = yes
+#}

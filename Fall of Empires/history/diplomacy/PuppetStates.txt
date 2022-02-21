@@ -1,0 +1,135 @@
+#Livonian Confederation - Dorpat
+vassal = {
+	first = LIV
+	second = DRP
+	start_date = 1500.1.1
+	end_date = 2000.1.1
+}
+
+#Livonian Confederatio - Osel-Wiek
+vassal = {
+	first = LIV
+	second = OSL 
+	start_date = 1500.1.1
+	end_date = 2000.1.1
+}
+
+#Livonian Confederation - Riga
+vassal = {
+	first = LIV
+	second = RGA
+	start_date = 1500.1.1
+	end_date = 2000.1.1
+}
+
+#Livonian Confederation - Kurland
+vassal = {
+	first = LIV
+	second = KUR
+	start_date = 1500.1.1
+	end_date = 2000.1.1
+}
+
+#Spain - Aragon
+vassal = {  
+	first = SPA 
+	second = ARN
+	start_date = 1469.1.1
+	end_date = 2000.1.1
+}
+
+#France - Brittany
+vassal = {  
+	first = FRA
+	second = BRT
+	start_date = 1469.1.1
+	end_date = 2000.1.1
+}
+
+#France - Milan
+vassal = {
+	first = FRA
+	second = MLN
+	start_date = 1500.1.1
+	end_date = 2000.1.1
+}
+
+#Poland - Mazovia
+vassal = {
+	first = POL
+	second = MAZ
+	start_date = 1836.1.1
+	end_date = 2000.1.1
+}
+
+#Poland - Lithuania
+vassal = {
+	first = POL
+	second = LIT
+	start_date = 1836.1.1
+	end_date = 2000.1.1
+}
+
+#Poland - Teutonic Order
+vassal = {
+	first = POL
+	second = TEU
+	start_date = 1836.1.1
+	end_date = 2000.1.1
+}
+
+#Ottomans - Wallachia
+vassal = {
+	first = TUR
+	second = WAL
+	start_date = 1417.1.1
+	end_date = 2000.1.1
+}
+
+#Ottomans - Ragusa
+vassal = {
+	first = TUR
+	second = ROR
+	start_date = 1458.1.1
+	end_date = 2000.1.1
+}
+
+#Venice - Naxos
+vassal = {
+	first = VEN
+	second = NAX
+	start_date = 1836.1.1
+	end_date = 2000.1.1
+}
+
+#Switzerland - Neuchatel
+vassal = {
+	first = SWI
+	second = NEH
+	start_date = 1836.1.1
+	end_date = 1870.1.1
+}
+
+# Denmark-Schleswig-Holstein
+vassal = {
+	first = DEN
+	second = SWH
+	start_date = 1836.1.1
+	end_date = 1864.10.30
+}
+
+# Denmark-Norway
+vassal = {
+	first = DEN
+	second = NOR
+	start_date = 1500.1.1
+	end_date = 1864.10.30
+}
+
+# Denmark-Sweden
+vassal = {
+	first = DEN
+	second = SWE
+	start_date = 1500.1.1
+	end_date = 1864.10.30
+}

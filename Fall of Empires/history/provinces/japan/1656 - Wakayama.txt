@@ -1,0 +1,6 @@
+owner = HTK
+controller = HTK
+add_core = HTK
+add_core = ASK
+trade_goods = tea
+life_rating = 35

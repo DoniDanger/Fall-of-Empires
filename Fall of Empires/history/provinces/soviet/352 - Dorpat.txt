@@ -1,0 +1,6 @@
+owner = DRP
+controller = DRP
+add_core = DRP
+add_core = LIV
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,6 @@
+owner = HJO
+controller = HJO
+add_core = HJO
+add_core = ASK
+trade_goods = grain
+life_rating = 35

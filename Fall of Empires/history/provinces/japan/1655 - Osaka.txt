@@ -1,0 +1,6 @@
+owner = HSK
+controller = HSK
+add_core = HSK
+add_core = ASK
+trade_goods = tea
+life_rating = 35

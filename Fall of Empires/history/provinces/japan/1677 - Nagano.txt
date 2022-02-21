@@ -1,0 +1,6 @@
+owner = OGS
+controller = OGS
+add_core = OGS
+add_core = ASK
+trade_goods = tea
+life_rating = 35

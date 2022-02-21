@@ -1,0 +1,37 @@
+leader = {
+	name = "Chad Aileanach"
+	date = 1836.1.1
+	type = land
+	personality = merciless
+	background = school_of_defense
+	prestige = 0.0
+}
+
+leader = {
+	name = "Arlan Camshronach"
+	date = 1836.1.1
+	type = land
+	personality = unflinching
+	background = nationalist
+	prestige = 0.0
+}
+
+army = {
+	name = "Army of The Highlands"
+	location = 267
+	regiment = {
+		name= "Highlander Infantry"
+		type = infantry
+		home = 267
+	}
+	regiment = {
+		name= "2nd Highlander Infantry"
+		type = infantry
+		home = 268
+	}
+	regiment = {
+		name= "3rd Highlander Infantry"
+		type = infantry
+		home = 270
+	}
+}

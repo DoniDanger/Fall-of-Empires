@@ -1,0 +1,4 @@
+add_core = FJN
+trade_goods = tea
+terrain = plains
+life_rating = 35

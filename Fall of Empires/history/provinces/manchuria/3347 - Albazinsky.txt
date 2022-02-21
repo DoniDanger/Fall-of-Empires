@@ -1,0 +1,6 @@
+owner = SOL
+controller = SOL
+add_core = SOL
+add_core = MCK
+trade_goods = coal
+life_rating = 32

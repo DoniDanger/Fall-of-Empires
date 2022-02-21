@@ -1,0 +1,245 @@
+song = {
+	name = "war2.mp3"
+	
+	chance = {
+		modifier = {
+			factor = -1
+			war = yes
+			}
+		}	
+	}
+	
+song = {
+	name = "war3.mp3"
+	
+	chance = {
+		modifier = {
+			factor = -1
+			war = no
+			}
+		}	
+	}
+	
+song = {
+	name = "war4.mp3"
+	
+	chance = {
+		modifier = {
+			factor = -1
+			war = no
+			}
+		}	
+	}
+	
+song = {
+	name = "war5.mp3"
+	
+	chance = {
+		modifier = {
+			factor = -1
+			war = no
+			}
+		}	
+	}
+
+song = {
+	name = "Üsküdara_Giderken.mp3"
+
+	modifier = {
+		factor = 0
+		war = yes
+		}
+
+modifier = {
+		factor = 1
+		war = no
+	}
+}
+
+song = {
+	name = "exodus.mp3"
+	
+	chance = {
+		modifier = {
+			factor = -1
+			war = yes
+			}
+		}	
+	}		
+
+song = {
+	name = "violin concerto.mp3"
+	
+	chance = {
+		modifier = {
+			factor = -1
+			war = yes
+			}
+		}	
+	}
+
+song = {
+	name = "voyager.mp3"
+	
+	chance = {
+		modifier = {
+			factor = -1
+			war = no
+			}
+		}	
+	}	
+
+song = {
+	name = "fife_and_drum.mp3"
+
+	modifier = {
+		factor = 0
+		war = yes
+	}
+
+modifier = {
+		factor = 1
+		war = no
+	}
+}
+
+song = {
+	name = "La_Victoire_est_a_Nous.mp3"
+
+	modifier = {
+		factor = 0
+		war = yes
+		}
+
+modifier = {
+		factor = 1
+		war = no
+	}
+}
+
+song = {
+	name = "Safe Haven from the Dunes.mp3"
+
+	modifier = {
+		factor = 0
+		war = yes
+		}
+
+modifier = {
+		factor = 1
+		war = no
+	}
+}
+
+song = {
+	name = "Winter_four_seasons.mp3"
+
+	modifier = {
+		factor = 0
+		war = yes
+		}
+
+modifier = {
+		factor = 1
+		war = no
+	}
+}
+
+song = {
+	name = "Batzorig Vaanchig.mp3"
+
+	modifier = {
+		factor = 0
+		war = yes
+		}
+
+modifier = {
+		factor = 1
+		war = no
+	}
+}
+
+song = {
+	name = "Camel Riders.mp3"
+
+	modifier = {
+		factor = 0
+		war = yes
+		}
+
+modifier = {
+		factor = 1
+		war = no
+	}
+}
+
+song = {
+	name = "Tsunami.mp3"
+
+	modifier = {
+		factor = 0
+		war = yes
+		}
+
+modifier = {
+		factor = 1
+		war = no
+	}
+}
+
+song = {
+	name = "Shouri.mp3"
+
+	modifier = {
+		factor = 0
+		war = yes
+		}
+
+modifier = {
+		factor = 1
+		war = no
+	}
+}
+
+song = {
+	name = "Autumn Leaves.mp3"
+
+	modifier = {
+		factor = 0
+		war = yes
+		}
+
+modifier = {
+		factor = 1
+		war = no
+	}
+}
+
+song = {
+	name = "For the Daimyo.mp3"
+
+	modifier = {
+		factor = 0
+		war = yes
+		}
+
+modifier = {
+		factor = 1
+		war = no
+	}
+}
+
+song = {
+	name = "Ceddin Deden.mp3"
+
+	modifier = {
+		factor = 0
+		war = yes
+		}
+
+modifier = {
+		factor = 1
+		war = no
+	}
+}
+

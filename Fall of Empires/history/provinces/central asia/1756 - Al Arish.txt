@@ -1,0 +1,8 @@
+owner = MAM
+controller = MAM
+add_core = MAM
+add_core = EGY
+trade_goods = fruit
+life_rating = 20
+terrain = semidesert
+#terrain = coastal_desert

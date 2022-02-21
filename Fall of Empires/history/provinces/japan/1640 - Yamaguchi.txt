@@ -1,0 +1,6 @@
+owner = OUC
+controller = OUC
+add_core = OUC
+add_core = ASK
+trade_goods = grain
+life_rating = 35

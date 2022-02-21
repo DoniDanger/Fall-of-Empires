@@ -1,0 +1,8 @@
+owner = LIE
+controller = LIE
+add_core = LIE
+add_core = NET
+add_core = FLA
+trade_goods = coal
+life_rating = 35
+terrain = mining_district

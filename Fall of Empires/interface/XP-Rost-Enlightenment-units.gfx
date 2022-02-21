@@ -1,0 +1,83 @@
+objectTypes = {
+
+	EMFXActorType = {
+		name = "EnglishGCInfantry3"
+		actorfile = "gfx\anims\English_1700.xac"
+		
+		idle   = "gfx\anims\Generic_Western_1700_Idle.xsm"
+		move   = "gfx\anims\Generic_Western_1700_Move.xsm"
+		attack = "gfx\anims\Generic_Western_1700_Attack.xsm"
+		scale = 7.8
+	}
+
+	EMFXActorType = {
+		name = "PortugeseGCInfantry3"
+		actorfile = "gfx\anims\Portuguese_1700.xac"
+		
+		idle   = "gfx\anims\Generic_Western_1700_Idle.xsm"
+		move   = "gfx\anims\Generic_Western_1700_Move.xsm"
+		attack = "gfx\anims\Generic_Western_1700_Attack.xsm"
+		scale = 7.8
+	}
+
+	EMFXActorType = {
+		name = "VenetianGCInfantry3"
+		actorfile = "gfx\anims\Venetian_1700.xac"
+		
+		idle   = "gfx\anims\Generic_Western_1700_Idle.xsm"
+		move   = "gfx\anims\Generic_Western_1700_Move.xsm"
+		attack = "gfx\anims\Generic_Western_1700_Attack.xsm"
+		scale = 7.8
+	}
+
+	EMFXActorType = {
+		name = "ScandinavianGCInfantry3"						
+		actorfile = "gfx\anims\Scandinavian_1700.xac"
+		
+		idle   = "gfx\anims\Generic_Western_1700_Idle.xsm"
+		move   = "gfx\anims\Generic_Western_1700_Move.xsm"
+		attack = "gfx\anims\Generic_Western_1700_Attack.xsm"
+		scale = 7.8
+	}
+
+	EMFXActorType = {
+		name = "DutchGCInfantry3"
+		actorfile = "gfx\anims\Dutch_1700.xac"
+		
+		idle   = "gfx\anims\Generic_Western_1700_Idle.xsm"
+		move   = "gfx\anims\Generic_Western_1700_Move.xsm"
+		attack = "gfx\anims\Generic_Western_1700_Attack.xsm"
+		scale = 7.8
+	}
+
+	EMFXActorType = {
+		name = "DanishGCInfantry3"
+		actorfile = "gfx\anims\Danish_1700.xac"
+		
+		idle   = "gfx\anims\Generic_Western_1700_Idle.xsm"
+		move   = "gfx\anims\Generic_Western_1700_Move.xsm"
+		attack = "gfx\anims\Generic_Western_1700_Attack.xsm"
+		scale = 7.8
+	}
+
+	EMFXActorType = {
+		name = "ScottishGCInfantry3"
+		actorfile = "gfx\anims\Scottish_1700.xac"
+		
+		idle   = "gfx\anims\Generic_Western_1700_Idle.xsm"
+		move   = "gfx\anims\Generic_Western_1700_Move.xsm"
+		attack = "gfx\anims\Generic_Western_1700_Attack.xsm"
+		scale = 7.8
+	}
+
+	EMFXActorType = {
+		name = "SwissGCInfantry3"
+		actorfile = "gfx\anims\Generic_Western_1700.xac"
+		
+		idle   = "gfx\anims\Generic_Western_1700_Idle.xsm"
+		move   = "gfx\anims\Generic_Western_1700_Move.xsm"
+		attack = "gfx\anims\Generic_Western_1700_Attack.xsm"
+		scale = 7.8
+	}
+	
+}

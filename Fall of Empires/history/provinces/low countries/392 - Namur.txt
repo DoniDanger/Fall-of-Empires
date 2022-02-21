@@ -1,0 +1,7 @@
+owner = LIE
+controller = LIE
+add_core = LIE
+add_core = NET
+add_core = WLL
+trade_goods = iron
+life_rating = 35

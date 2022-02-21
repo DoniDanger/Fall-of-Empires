@@ -1,0 +1,6 @@
+owner = KTB
+controller = KTB
+add_core = KTB
+add_core = ASK
+trade_goods = grain
+life_rating = 35

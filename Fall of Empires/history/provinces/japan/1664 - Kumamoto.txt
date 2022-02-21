@@ -1,0 +1,6 @@
+owner = OTM
+controller = OTM
+add_core = OTM
+add_core = ASK
+trade_goods = fruit
+life_rating = 35

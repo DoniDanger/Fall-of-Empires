@@ -1,0 +1,7 @@
+owner = GZK
+controller = GZK
+add_core = GZK
+add_core = DAG
+add_core = CHY
+trade_goods = grain
+life_rating = 35

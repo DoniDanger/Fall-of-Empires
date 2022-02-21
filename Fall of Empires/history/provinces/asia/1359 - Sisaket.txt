@@ -1,0 +1,6 @@
+owner = LXA
+controller = LXA
+add_core = LXA
+add_core = SIA
+trade_goods = cattle
+life_rating = 35

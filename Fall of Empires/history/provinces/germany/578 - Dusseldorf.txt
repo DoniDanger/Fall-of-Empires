@@ -1,0 +1,11 @@
+owner = PLT
+controller = PLT
+add_core = PLT
+add_core = WES
+add_core = GER
+add_core = HRE
+trade_goods = coal
+life_rating = 40
+railroad = 1
+terrain = mining_district
+1861.1.1 = { railroad = 3 }

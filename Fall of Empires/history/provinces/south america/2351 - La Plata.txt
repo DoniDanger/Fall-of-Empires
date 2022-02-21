@@ -1,0 +1,1 @@
+trade_goods = fishterrain = farmlandslife_rating = 35

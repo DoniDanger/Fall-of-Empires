@@ -1,0 +1,2 @@
+trade_goods = fruit
+terrain = dryhillslife_rating = 35

@@ -1,0 +1,5 @@
+owner = MUS
+controller = MUS
+add_core = MUS
+trade_goods = fish
+life_rating = 10

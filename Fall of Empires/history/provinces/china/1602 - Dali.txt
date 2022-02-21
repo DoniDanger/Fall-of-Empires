@@ -1,0 +1,6 @@
+owner = MNE
+controller = MNE
+add_core = MNE
+add_core = YNN
+trade_goods = timber
+life_rating = 32

@@ -1,0 +1,6 @@
+owner = KIC
+controller = KIC
+add_core = KIC
+add_core = MAY
+trade_goods = iron
+life_rating = 33

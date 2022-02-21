@@ -1,0 +1,6 @@
+owner = PYG
+controller = PYG
+add_core = PYG
+add_core = DJA
+trade_goods = fish
+life_rating = 35

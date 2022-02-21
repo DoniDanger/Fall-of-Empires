@@ -1,0 +1,42 @@
+leader = {
+	name = "Malcolm MacDonald"
+	date = 1836.1.1
+	type = land
+	personality = cautious
+	background = bootlicker
+	prestige = 0.0
+}
+
+leader = {
+	name = "Angus Reid"
+	date = 1836.1.1
+	type = land
+	personality = daring
+	background = adventurer
+	prestige = 0.0
+}
+
+army = {
+	name = "Army of Scotland"
+	location = 269
+	regiment = {
+		name= "Scottish Infantry"
+		type = infantry
+		home = 269
+	}
+	regiment = {
+		name= "Scottish Artillery"
+		type = artillery
+		home = 267
+	}
+	regiment = {
+		name= "2nd Scottish Infantry"
+		type = infantry
+		home = 271
+	}
+	regiment = {
+		name= "3rd Scottish Infantry"
+		type = infantry
+		home = 272
+	}
+}

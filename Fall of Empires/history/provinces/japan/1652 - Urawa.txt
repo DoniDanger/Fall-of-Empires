@@ -1,0 +1,6 @@
+owner = TKD
+controller = TKD
+add_core = TKD
+add_core = ASK
+trade_goods = fruit
+life_rating = 35

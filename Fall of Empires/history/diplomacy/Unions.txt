@@ -1,0 +1,23 @@
+# Denmark-Schleswig-Holstein (Frederick VI, Christian VIII, Frederick VII)
+union = {
+	first = DEN
+	second = SWH
+	start_date = 1460.3.2
+	end_date = 1863.11.15
+}
+
+# France-Brittany (Louis XII, Francis I, Francis III, Henry II)
+union = {
+	first = FRA
+	second = BRT
+	start_date = 1488.3.2
+	end_date = 1935.11.15
+}
+
+# Spain - Aragon (Frederick VI, Christian VIII, Frederick VII)
+union = {
+	first = SPA
+	second = ARN
+	start_date = 1469.3.2
+	end_date = 1935.11.15
+}

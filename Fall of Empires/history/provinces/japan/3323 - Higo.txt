@@ -1,0 +1,6 @@
+owner = KKC
+controller = KKC
+add_core = KKC
+add_core = ASK
+trade_goods = fruit
+life_rating = 35

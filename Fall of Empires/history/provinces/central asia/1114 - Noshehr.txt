@@ -1,0 +1,5 @@
+owner = AKK
+controller = AKK
+add_core = AKK
+trade_goods = timber
+life_rating = 35

@@ -1,0 +1,7 @@
+owner = MNE
+controller = MNE
+add_core = MNE
+add_core = GNG
+trade_goods = precious_goods
+life_rating = 35
+colonial = 2

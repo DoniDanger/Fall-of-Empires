@@ -1,0 +1,8 @@
+owner = RGA
+controller = RGA
+add_core = RGA
+add_core = LIV
+add_core = RIG
+trade_goods = fish
+life_rating = 40
+naval_base = 2
