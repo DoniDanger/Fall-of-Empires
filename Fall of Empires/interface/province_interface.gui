@@ -871,7 +871,7 @@ guiTypes = {
 			## Country Info
 			guiButtonType = {
 				name = "country_flag"
-				position = { x= 15 y = 150 }
+				position = { x= 12 y = 150 }
 				quadTextureSprite ="GFX_topbarflag"
 				buttonText = " "
 				buttonFont = "vic_18_black"
@@ -895,14 +895,14 @@ guiTypes = {
 			iconType = {
 				name ="country_flag_overlay"
 				spriteType = "GFX_topbar_flag_overlay_trans"
-				position = { x= 6 y = 132 }
+				position = { x= 5 y = 132 }
 				Orientation = "UPPER_LEFT"
 			}
 			
 		
 			instantTextBoxType = { 
 				name = "country_name"
-				position = { x = 90 y = 140 }
+				position = { x = 85 y = 140 }
 				font = "vic_22"
 				text = "France"	
 				maxWidth = 190

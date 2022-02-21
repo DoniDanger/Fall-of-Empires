@@ -1,0 +1,6 @@
+name = "Fall of Empires"
+path = "mod/Fall of Empires"
+user_dir = "Fall of Empires"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"
