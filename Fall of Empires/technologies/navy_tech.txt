@@ -1,7 +1,7 @@
 #naval_doctrine
 post_nelsonian_thought = {
 	area = naval_doctrine
-	year = 1600
+	year = 1500
 	cost = 3600
 	unciv_military = yes
 	activate_building = naval_base
@@ -19,7 +19,7 @@ post_nelsonian_thought = {
 }
 battleship_column_doctrine = {
 	area = naval_doctrine
-	year = 1700
+	year = 1500
 	cost = 7200
 	unciv_military = yes
 	max_naval_base = 1
@@ -37,7 +37,7 @@ battleship_column_doctrine = {
 }
 raider_group_doctrine = {
 	area = naval_doctrine
-	year = 1720
+	year = 1500
 	cost = 10800
 	unciv_military = yes
 	max_naval_base = 1
@@ -52,7 +52,7 @@ raider_group_doctrine = {
 }
 blue_and_brown_water_schools = {
 	area = naval_doctrine
-	year = 1740
+	year = 1500
 	cost = 14400
 	unciv_military = yes
 	max_naval_base = 1
@@ -67,7 +67,7 @@ blue_and_brown_water_schools = {
 
 high_sea_battle_fleet = {
 	area = naval_doctrine
-	year = 1755
+	year = 1500
 	cost = 18000
 	unciv_military = yes
 	max_naval_base = 1
@@ -82,7 +82,7 @@ high_sea_battle_fleet = {
 }
 modern_naval_doctrine = {
 	area = naval_doctrine
-	year = 1775
+	year = 1500
 	cost = 21600
 	unciv_military = yes
 	max_naval_base = 1
@@ -97,7 +97,7 @@ modern_naval_doctrine = {
 }
 naval_doctrine_7 = {
 	area = naval_doctrine
-	year = 1790
+	year = 1600
 	cost = 25200
 	unciv_military = yes
 	
@@ -115,7 +115,81 @@ naval_doctrine_7 = {
 }
 naval_doctrine_8 = {
 	area = naval_doctrine
-	year = 1805
+	year = 1600
+	cost = 30200
+	unciv_military = yes
+	
+	navy_base = {
+		gun_power = 1
+	}	
+	
+	ai_chance = {
+		factor = 1.5
+		# Land-locked countries don't research this
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+naval_doctrine_9 = {
+	area = naval_doctrine
+	year = 1600
+	cost = 25200
+	unciv_military = yes
+	
+	navy_base = {
+		gun_power = 1
+	}	
+
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+naval_doctrine_10 = {
+	area = naval_doctrine
+	year = 1600
+	cost = 30200
+	unciv_military = yes
+	
+	navy_base = {
+		gun_power = 1
+	}	
+	
+	ai_chance = {
+		factor = 1.5
+		# Land-locked countries don't research this
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+naval_doctrine_11 = {
+	area = naval_doctrine
+	year = 1600
+	cost = 25200
+	unciv_military = yes
+	
+	navy_base = {
+		gun_power = 1
+	}	
+
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+naval_doctrine_12 = {
+	area = naval_doctrine
+	year = 1600
 	cost = 30200
 	unciv_military = yes
 	
@@ -133,11 +207,10 @@ naval_doctrine_8 = {
 	}
 }
 
-
 #ship_construction
 clipper_design = {
 	area = ship_construction
-	year = 1650
+	year = 1500
 	cost = 3600
 	navy_base = { maximum_speed = 1 }
 	unciv_military = yes
@@ -153,7 +226,7 @@ clipper_design = {
 }
 steamers = {
 	area = ship_construction
-	year = 1700
+	year = 1500
 	cost = 7200
 	unciv_military = yes
 	
@@ -170,7 +243,7 @@ steamers = {
 }
 iron_steamers = {
 	area = ship_construction
-	year = 1715
+	year = 1500
 	cost = 10800
 	unciv_military = yes
 	navy_base = { maximum_speed = 2 }
@@ -186,7 +259,7 @@ iron_steamers = {
 }
 steel_steamers = {
 	area = ship_construction
-	year = 1735
+	year = 1500
 	cost = 14400
 	unciv_military = yes
 	navy_base = { maximum_speed = 1 } 
@@ -201,7 +274,7 @@ steel_steamers = {
 }
 steam_turbine_ships = {
 	area = ship_construction
-	year = 1755
+	year = 1500
 	cost = 18000
 	unciv_military = yes
 	navy_base = { maximum_speed = 2 } 
@@ -216,7 +289,7 @@ steam_turbine_ships = {
 }
 oil_driven_ships = {
 	area = ship_construction
-	year = 1770
+	year = 1500
 	cost = 21600
 	unciv_military = yes
 	navy_base = { maximum_speed = 2 } 
@@ -231,7 +304,7 @@ oil_driven_ships = {
 }
 ship_construction_7 = {
 	area = ship_construction
-	year = 1790
+	year = 1600
 	cost = 25200
 	unciv_military = yes
 	navy_base = { maximum_speed = 2 } 
@@ -246,7 +319,67 @@ ship_construction_7 = {
 }
 ship_construction_8 = {
 	area = ship_construction
-	year = 1805
+	year = 1600
+	cost = 30200
+	unciv_military = yes
+	navy_base = { maximum_speed = 2 } 
+	ai_chance = {
+		factor = 1.25
+		# Land-locked countries don't research this
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+ship_construction_9 = {
+	area = ship_construction
+	year = 1600
+	cost = 25200
+	unciv_military = yes
+	navy_base = { maximum_speed = 2 } 
+	ai_chance = {
+		factor = 4
+		# Land-locked countries don't research this
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+ship_construction_10 = {
+	area = ship_construction
+	year = 1600
+	cost = 30200
+	unciv_military = yes
+	navy_base = { maximum_speed = 2 } 
+	ai_chance = {
+		factor = 1.25
+		# Land-locked countries don't research this
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+ship_construction_11 = {
+	area = ship_construction
+	year = 1600
+	cost = 25200
+	unciv_military = yes
+	navy_base = { maximum_speed = 2 } 
+	ai_chance = {
+		factor = 4
+		# Land-locked countries don't research this
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+ship_construction_12 = {
+	area = ship_construction
+	year = 1600
 	cost = 30200
 	unciv_military = yes
 	navy_base = { maximum_speed = 2 } 
@@ -263,7 +396,7 @@ ship_construction_8 = {
 #naval_engineering
 naval_design_bureaus = {
 	area = naval_engineering
-	year = 1600
+	year = 1500
 	cost = 3600
 	navy_base = { build_time = -10 }
 	unciv_military = yes
@@ -278,7 +411,7 @@ naval_design_bureaus = {
 }
 fire_control_systems = {
 	area = naval_engineering
-	year = 1700
+	year = 1500
 	cost = 7200
 	unciv_military = yes
 	navy_base = { build_time = -10 }
@@ -297,7 +430,7 @@ fire_control_systems = {
 
 weapon_platforms = {
 	area = naval_engineering
-	year = 1720
+	year = 1500
 	cost = 10800
 	unciv_military = yes
 	navy_base = { build_time = -10 }
@@ -314,7 +447,7 @@ weapon_platforms = {
 }
 main_armament = {
 	area = naval_engineering
-	year = 1740
+	year = 1500
 	cost = 14400
 	unciv_military = yes
 	navy_base = { build_time = -10 }
@@ -331,7 +464,7 @@ main_armament = {
 }
 advanced_naval_design = {
 	area = naval_engineering
-	year = 1755
+	year = 1500
 	cost = 18000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
@@ -346,7 +479,7 @@ advanced_naval_design = {
 }
 modern_naval_design = {
 	area = naval_engineering
-	year = 1775
+	year = 1500
 	cost = 21600
 	unciv_military = yes
 	navy_base = { build_time = -10 }
@@ -361,7 +494,7 @@ modern_naval_design = {
 }
 naval_engineering_7 = {
 	area = naval_engineering
-	year = 1790
+	year = 1600
 	cost = 25200
 	unciv_military = yes
 	navy_base = { build_time = -10 }
@@ -376,7 +509,67 @@ naval_engineering_7 = {
 }
 naval_engineering_8 = {
 	area = naval_engineering
-	year = 1805
+	year = 1600
+	cost = 30200
+	unciv_military = yes
+	navy_base = { build_time = -10 }
+	ai_chance = {
+		factor = 0.25
+		# Land-locked countries don't research this
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+naval_engineering_9 = {
+	area = naval_engineering
+	year = 1600
+	cost = 25200
+	unciv_military = yes
+	navy_base = { build_time = -10 }
+	ai_chance = {
+		factor = 0.25
+		# Land-locked countries don't research this
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+naval_engineering_10 = {
+	area = naval_engineering
+	year = 1600
+	cost = 30200
+	unciv_military = yes
+	navy_base = { build_time = -10 }
+	ai_chance = {
+		factor = 0.25
+		# Land-locked countries don't research this
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+naval_engineering_11 = {
+	area = naval_engineering
+	year = 1600
+	cost = 25200
+	unciv_military = yes
+	navy_base = { build_time = -10 }
+	ai_chance = {
+		factor = 0.25
+		# Land-locked countries don't research this
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+naval_engineering_12 = {
+	area = naval_engineering
+	year = 1600
 	cost = 30200
 	unciv_military = yes
 	navy_base = { build_time = -10 }
@@ -393,7 +586,7 @@ naval_engineering_8 = {
 #naval_science
 alphabetic_flag_signaling = {
 	area = naval_science
-	year = 1600
+	year = 1500
 	cost = 3600
 	unciv_military = yes
 	supply_range = 0.5
@@ -408,7 +601,7 @@ alphabetic_flag_signaling = {
 }
 naval_plans = {
 	area = naval_science
-	year = 1700
+	year = 1500
 	cost = 7200
 	unciv_military = yes
 	supply_range = 0.5
@@ -423,7 +616,7 @@ naval_plans = {
 }
 naval_statistics = {
 	area = naval_science
-	year = 1720
+	year = 1500
 	cost = 10800
 	unciv_military = yes
 	supply_range = 0.5
@@ -437,7 +630,7 @@ naval_statistics = {
 }
 naval_logistics = {
 	area = naval_science
-	year = 1740
+	year = 1500
 	cost = 14400
 	unciv_military = yes
 	supply_range = 1.0
@@ -465,7 +658,7 @@ naval_directionism = {
 }
 naval_integration = {
 	area = naval_science
-	year = 1775
+	year = 1500
 	cost = 21600
 	unciv_military = yes
 	supply_range = 1.0
@@ -479,7 +672,7 @@ naval_integration = {
 }
 naval_science_7 = {
 	area = naval_science
-	year = 1790
+	year = 1600
 	cost = 25200
 	unciv_military = yes
 	supply_range = 1.0
@@ -493,7 +686,63 @@ naval_science_7 = {
 }
 naval_science_8 = {
 	area = naval_science
-	year = 1805
+	year = 1600
+	cost = 30200
+	unciv_military = yes
+	supply_range = 1.0
+		ai_chance = {
+		factor = 0.25
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+naval_science_9 = {
+	area = naval_science
+	year = 1600
+	cost = 25200
+	unciv_military = yes
+	supply_range = 1.0
+		ai_chance = {
+		factor = 0.25
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+naval_science_10 = {
+	area = naval_science
+	year = 1600
+	cost = 30200
+	unciv_military = yes
+	supply_range = 1.0
+		ai_chance = {
+		factor = 0.25
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+naval_science_11 = {
+	area = naval_science
+	year = 1600
+	cost = 25200
+	unciv_military = yes
+	supply_range = 1.0
+		ai_chance = {
+		factor = 0.25
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+naval_science_12 = {
+	area = naval_science
+	year = 1600
 	cost = 30200
 	unciv_military = yes
 	supply_range = 1.0
@@ -506,11 +755,10 @@ naval_science_8 = {
 	}
 }
 
-
 #naval_leadership
 the_command_principle = {
 	area = naval_leadership
-	year = 1700
+	year = 1500
 	cost = 3600
 	unciv_military = yes
 	navy_base = {
@@ -527,7 +775,7 @@ the_command_principle = {
 }
 naval_professionalism = {
 	area = naval_leadership
-	year = 1700
+	year = 1500
 	cost = 7200
 	unciv_military = yes
 	navy_base = { default_organisation = 5 }
@@ -544,7 +792,7 @@ naval_professionalism = {
 }
 naval_decision_making = {
 	area = naval_leadership
-	year = 1720
+	year = 1500
 	cost = 10800
 	unciv_military = yes
 	navy_base = { default_organisation = 5 }
@@ -561,7 +809,7 @@ naval_decision_making = {
 }
 naval_risk_management = {
 	area = naval_leadership
-	year = 1740
+	year = 1500
 	cost = 14400
 	unciv_military = yes
 	navy_base = { default_organisation = 5 }
@@ -578,7 +826,7 @@ naval_risk_management = {
 }
 naval_nco_training = {
 	area = naval_leadership
-	year = 1755
+	year = 1500
 	cost = 18000
 	unciv_military = yes
 	navy_base = {
@@ -595,7 +843,7 @@ naval_nco_training = {
 }
 modern_naval_training = {
 	area = naval_leadership
-	year = 1775
+	year = 1500
 	cost = 21600
 	unciv_military = yes
 	navy_base = {
@@ -612,7 +860,7 @@ modern_naval_training = {
 }
 naval_leadership_7 = {
 	area = naval_leadership
-	year = 1790
+	year = 1600
 	cost = 25200
 	unciv_military = yes
 	navy_base = {
@@ -629,7 +877,7 @@ naval_leadership_7 = {
 }
 naval_leadership_8 = {
 	area = naval_leadership
-	year = 1805
+	year = 1600
 	cost = 30200
 	unciv_military = yes
 	navy_base = {
@@ -644,5 +892,72 @@ naval_leadership_8 = {
 		}
 	}
 }
-
+naval_leadership_9 = {
+	area = naval_leadership
+	year = 1600
+	cost = 25200
+	unciv_military = yes
+	navy_base = {
+		default_organisation = 5
+	}
+	ai_chance = {
+		factor = 0.25
+		# Land-locked countries don't research this
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+naval_leadership_10 = {
+	area = naval_leadership
+	year = 1600
+	cost = 30200
+	unciv_military = yes
+	navy_base = {
+		default_organisation = 5
+	}
+	ai_chance = {
+		factor = 0.25
+		# Land-locked countries don't research this
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+naval_leadership_11 = {
+	area = naval_leadership
+	year = 1600
+	cost = 25200
+	unciv_military = yes
+	navy_base = {
+		default_organisation = 5
+	}
+	ai_chance = {
+		factor = 0.25
+		# Land-locked countries don't research this
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
+naval_leadership_12 = {
+	area = naval_leadership
+	year = 1600
+	cost = 30200
+	unciv_military = yes
+	navy_base = {
+		default_organisation = 5
+	}
+	ai_chance = {
+		factor = 0.25
+		# Land-locked countries don't research this
+		modifier = {
+			factor = 0
+			NOT = { total_num_of_ports = 1 }
+		}
+	}
+}
 
