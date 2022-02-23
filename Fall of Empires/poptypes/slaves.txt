@@ -16,41 +16,17 @@ rebel = {
 	irregular = 1
 }
 
-life_needs = {
-	cattle = 0.5
-	wool = 0.3
-	fish = 0.5
-	fruit = 0.5
-	grain = 2
-}
 
 everyday_needs = {
-	opium = 0.5
-	regular_clothes = 0.25
-	liquor = 0.5
-	tobacco = 0.5
-	cotton = 0.25
-	cattle = 2.5
-	grain = 2.5
+	coal = 1
 }
 
 luxury_needs = {
-	opium = 2
-	tobacco = 2
-	regular_clothes = 1
-	tea = 0.25
-	grain = 4
-	fish = 1
-	fruit = 1
-	cattle = 1
-	machine_parts = 1
+	opium = 1
 }
 
 ideologies = {
-	communist = {
-		factor = 3
-	}
-	socialist = {
+	liberal = {
 		factor = 3
 	}
 	conservative = {

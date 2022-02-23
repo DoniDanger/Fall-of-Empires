@@ -1,27 +1,87 @@
 army = {
-    name = "Colorado Rebels"
-    location = 2345
+    name = "Qasim Jahangir's Faction"
+    location = 893
 
     regiment = {
-        name = "1.Regimiento Colorado"
+        name = "Kurdish Tribesmen"
         type = infantry
-        home = 2344
+        home = 893
+    }
+    regiment = {
+        name = "Kurdish Tribesmen"
+        type = infantry
+        home = 893
+    }
+    regiment = {
+        name = "Kurdish Tribesmen"
+        type = infantry
+        home = 893
+    }
+    regiment = {
+        name = "Kurdish Tribesmen"
+        type = infantry
+        home = 893
     }
 }
 
 army = {
-    name = "Colorado Rebels"
-    location = 2346
+    name = "Muhammad's Faction"
+    location = 926
 
     regiment = {
-        name = "1.Regimiento Colorado"
+        name = "Iraqi Tribesmen"
         type = infantry
-        home = 2344
+        home = 926
     }
 
-regiment = {
-        name = "2.Regimiento Colorado"
+    regiment = {
+        name = "Iraqi Tribesmen"
         type = infantry
-        home = 2344
+        home = 926
+    }
+    regiment = {
+        name = "Iraqi Tribesmen"
+        type = infantry
+        home = 926
+    }
+    regiment = {
+        name = "Iraqi Tribesmen"
+        type = infantry
+        home = 926
+    }
+}
+
+army = {
+    name = "Ishafan Faction"
+    location = 1127
+
+    regiment = {
+        name = "Persian Tribesmen"
+        type = infantry
+        home = 1127
+    }
+
+    regiment = {
+        name = "Persian Tribesmen"
+        type = infantry
+        home = 1127
+    }
+
+    regiment = {
+        name = "Persian Tribesmen"
+        type = infantry
+        home = 1127
+    }
+
+    regiment = {
+        name = "Persian Tribesmen"
+        type = infantry
+        home = 1127
+    }
+    
+    regiment = {
+        name = "Persian Tribesmen"
+        type = infantry
+        home = 1127
     }
 }
