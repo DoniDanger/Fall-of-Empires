@@ -5,6 +5,19 @@ REB 	= 	"countries/rebels.txt"
 
 ## Balkanized...
 
+#MoB Persia
+AJM             ="countries/Ajam.txt"
+HSA        	="countries/Al-Ahsa.txt"
+FRS             ="countries/Fars.txt"
+GLN             ="countries/Gilan.txt"
+KBD	        ="countries/Kabarda.txt"
+KHR             ="countries/Khorasan.txt"
+LUR             ="countries/Luristan.txt"
+MZN             ="countries/Mazandaran.txt"
+SST		="countries/Sistan.txt"
+TLY             ="countries/Talyshistan.txt"
+YZD             ="countries/Yazd.txt"
+
 # MoB Low Countries
 BRG     = "countries/Burgundy.txt"
 FRI     = "countries/Friesland.txt"
