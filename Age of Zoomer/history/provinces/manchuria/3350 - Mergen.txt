@@ -1,0 +1,6 @@
+owner = NHX
+controller = NHX
+add_core = NHX
+add_core = MCK
+trade_goods = coal
+life_rating = 32

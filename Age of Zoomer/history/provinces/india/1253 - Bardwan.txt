@@ -1,0 +1,8 @@
+owner=BNG
+controller=BNG
+add_core=BNG
+add_core=HND
+add_core=MBL
+trade_goods = coal
+life_rating = 32
+fort = 2

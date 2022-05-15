@@ -1,0 +1,15 @@
+name = "Second Italian War"
+
+1499.8.10 = {
+	add_attacker = FRA
+	add_attacker = VEN
+	add_attacker = SWI
+	add_defender = LOM
+
+	war_goal = {
+		casus_belli = acquire_core_state
+		actor = FRA
+		receiver = LOM
+		state_province_id = 726
+	}
+}

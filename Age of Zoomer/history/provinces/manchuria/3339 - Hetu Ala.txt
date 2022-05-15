@@ -1,0 +1,6 @@
+owner = MJZ
+controller = MJZ
+add_core = MJZ
+add_core = MCK
+trade_goods = timber
+life_rating = 32

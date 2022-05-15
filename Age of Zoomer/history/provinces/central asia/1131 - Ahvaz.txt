@@ -1,0 +1,8 @@
+owner=MSY
+controller=MSY
+add_core=IRQ
+add_core=MSY
+add_core=X16
+trade_goods = grain
+life_rating = 35
+terrain = semidesert

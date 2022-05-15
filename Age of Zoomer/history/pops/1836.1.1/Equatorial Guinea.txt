@@ -1,0 +1,193 @@
+1955 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 423
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1062
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 65
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 114
+	}
+
+}
+1973 = {
+	aristocrats=
+	{
+		culture = fang
+		religion = animist
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = animist
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = animist
+		size= 1500
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = animist
+		size= 350
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = animist
+		size= 31500
+	}
+
+	aristocrats=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 1000
+	}
+
+	slaves=
+	{
+		culture = ibo
+		religion = animist
+		size= 500
+	}
+
+}

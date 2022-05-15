@@ -1,0 +1,9 @@
+owner=HDJ
+controller=ANZ
+add_core=ANZ
+add_core=ARA
+add_core=HDJ
+add_core=X18
+trade_goods = grain
+life_rating = 35
+terrain = semidesert

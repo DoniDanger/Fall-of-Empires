@@ -1,0 +1,6 @@
+owner=ITZ
+controller=ITZ
+add_core=ITZ
+add_core=YOK
+trade_goods = coffee
+life_rating = 34

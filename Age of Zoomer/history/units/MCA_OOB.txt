@@ -1,0 +1,30 @@
+#Sphere of Influence
+
+CCQ = {
+	value = 0
+	level = 2
+}
+INC = {
+	value = 0
+	level = 2
+}
+MCA = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+QTO = {
+	value = 0
+	level = 2
+}
+TRO = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

@@ -1,0 +1,6 @@
+owner=AUW
+controller=AUW
+add_core=ABO
+add_core=AUW
+trade_goods = wool
+life_rating = 33

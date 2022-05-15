@@ -1,0 +1,4 @@
+owner=MLW
+controller=MLW
+trade_goods = grain
+life_rating = 10

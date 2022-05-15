@@ -1,0 +1,5 @@
+owner=TLA
+controller=TLA
+add_core=TLA
+trade_goods = grain
+life_rating = 35

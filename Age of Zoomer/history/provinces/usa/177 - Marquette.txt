@@ -1,0 +1,4 @@
+owner=OJI
+controller=OJI
+trade_goods = fish
+life_rating = 35

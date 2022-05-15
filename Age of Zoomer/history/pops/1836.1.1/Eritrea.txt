@@ -1,0 +1,218 @@
+1848 = {
+	slaves=
+	{
+		culture = tigray
+		religion = coptic
+		size= 450
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 189
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = coptic
+		size= 754
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = coptic
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 158
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 17146
+	}
+
+}
+1849 = {
+	soldiers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 62
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = coptic
+		size= 248
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = coptic
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 5785
+	}
+
+}
+1850 = {
+	slaves=
+	{
+		culture = tigray
+		religion = coptic
+		size= 884
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 70
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = coptic
+		size= 282
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = coptic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 5728
+	}
+
+}
+1851 = {
+	soldiers=
+	{
+		culture = afar
+		religion = sunni
+		size= 97
+	}
+
+	artisans=
+	{
+		culture = afar
+		religion = sunni
+		size= 387
+	}
+
+	clergymen=
+	{
+		culture = afar
+		religion = sunni
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = afar
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = afar
+		religion = sunni
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = afar
+		religion = sunni
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = afar
+		religion = sunni
+		size= 9039
+	}
+
+}

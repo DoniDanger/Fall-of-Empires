@@ -1,0 +1,8 @@
+owner=PGA
+controller=PAP
+add_core=ITA
+add_core=PAP
+add_core=PGA
+add_core=X29
+trade_goods = fruit
+life_rating = 35

@@ -1,0 +1,6 @@
+owner=AMD
+controller=AMD
+add_core=AMD
+add_core=HND
+trade_goods = grain
+life_rating = 32

@@ -1,0 +1,5 @@
+owner=HWK
+controller=HWK
+add_core=HWK
+trade_goods = coal
+life_rating = 35

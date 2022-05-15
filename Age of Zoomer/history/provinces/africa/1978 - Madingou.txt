@@ -1,0 +1,5 @@
+owner=TYO
+controller=TYO
+add_core=TYO
+trade_goods = grain
+life_rating = 31

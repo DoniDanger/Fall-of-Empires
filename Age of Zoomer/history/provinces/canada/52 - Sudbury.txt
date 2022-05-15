@@ -1,0 +1,7 @@
+owner=ATT
+controller=ARR
+add_core=ARR
+add_core=ATT
+add_core=MSG
+trade_goods = iron
+life_rating = 31

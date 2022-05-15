@@ -1,0 +1,6 @@
+owner=CCT
+controller=CCT
+add_core=CCT
+add_core=ITZ
+trade_goods = fruit
+life_rating = 33

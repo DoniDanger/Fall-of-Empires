@@ -1,0 +1,6 @@
+owner=TBK
+controller=TBK
+add_core=TBK
+trade_goods = fruit
+life_rating = 10
+terrain = montane_forest

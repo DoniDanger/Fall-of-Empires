@@ -1,0 +1,5 @@
+owner=AUM
+controller=AUM
+add_core=ABO
+trade_goods = cattle
+life_rating = 34

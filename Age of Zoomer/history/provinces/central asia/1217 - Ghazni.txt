@@ -1,0 +1,5 @@
+owner=KHO
+controller=KHO
+add_core=AFG
+trade_goods = wool
+life_rating = 35

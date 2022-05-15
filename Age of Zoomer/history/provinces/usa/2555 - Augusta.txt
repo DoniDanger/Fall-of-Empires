@@ -1,0 +1,4 @@
+owner=ETO
+controller=ETO
+trade_goods = cotton
+life_rating = 35

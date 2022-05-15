@@ -1,0 +1,6 @@
+owner=BIJ
+controller=BIJ
+add_core=BIJ
+add_core=HND
+trade_goods = precious_goods
+life_rating = 32

@@ -1,0 +1,8 @@
+owner=ARN
+controller=ARN
+add_core=ARN
+add_core=MLT
+add_core=SYC
+trade_goods = fish
+life_rating = 32
+terrain = small_island

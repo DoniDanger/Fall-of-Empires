@@ -1,0 +1,6 @@
+owner=BKF
+controller=BKF
+add_core=BKF
+add_core=TEN
+trade_goods = grain
+life_rating = 35

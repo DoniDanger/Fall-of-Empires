@@ -1,0 +1,8 @@
+owner=FRA
+controller=FRA
+add_core=FRA
+add_core=ITA
+add_core=SVY
+add_core=X31
+trade_goods = fruit
+life_rating = 40

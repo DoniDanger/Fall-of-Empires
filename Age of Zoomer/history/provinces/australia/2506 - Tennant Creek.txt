@@ -1,0 +1,8 @@
+owner=AUY
+controller=AUL
+add_core=ABO
+add_core=AUL
+add_core=AUY
+add_core=TIW
+trade_goods = cattle
+life_rating = 31

@@ -1,0 +1,9 @@
+owner=NGA
+controller=JOD
+add_core=HND
+add_core=JOD
+add_core=MEW
+add_core=NGA
+trade_goods = fruit
+life_rating = 32
+fort = 2

@@ -1,0 +1,8 @@
+owner=FRA
+controller=FRA
+add_core=FRA
+add_core=GNV
+add_core=HLR
+add_core=SWI
+trade_goods = grain
+life_rating = 33

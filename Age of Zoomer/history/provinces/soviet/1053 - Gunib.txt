@@ -1,0 +1,6 @@
+owner=GZK
+controller=AVR
+add_core=AVR
+add_core=GZK
+trade_goods = silk
+life_rating = 35

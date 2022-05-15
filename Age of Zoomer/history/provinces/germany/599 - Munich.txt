@@ -1,0 +1,9 @@
+owner=UBV
+controller=LBV
+add_core=GER
+add_core=HLR
+add_core=ING
+add_core=LBV
+add_core=UBV
+trade_goods = coal
+life_rating = 40

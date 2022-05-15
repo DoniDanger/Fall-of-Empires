@@ -1,0 +1,7 @@
+owner=YEM
+controller=YEM
+add_core=ARA
+add_core=RAS
+add_core=YEM
+trade_goods = coffee
+life_rating = 35

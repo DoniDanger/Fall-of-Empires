@@ -1,0 +1,6 @@
+owner=KSI
+controller=COO
+add_core=COO
+add_core=KSI
+trade_goods = cotton
+life_rating = 35

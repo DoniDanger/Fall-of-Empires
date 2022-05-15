@@ -1,0 +1,6 @@
+owner = KRC
+controller = KRC
+add_core = KRC
+add_core = MCK
+trade_goods = timber
+life_rating = 32

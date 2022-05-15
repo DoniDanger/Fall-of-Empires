@@ -1,0 +1,5 @@
+owner=GAM
+controller=GAM
+add_core=GAM
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,7 @@
+owner=AMD
+controller=AMD
+add_core=AMD
+add_core=HND
+trade_goods = cotton
+life_rating = 32
+fort = 2

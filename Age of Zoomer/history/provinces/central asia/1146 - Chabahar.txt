@@ -1,0 +1,6 @@
+owner=AKK
+controller=REB
+add_core=AKK
+add_core=BLC
+trade_goods = fish
+life_rating = 35

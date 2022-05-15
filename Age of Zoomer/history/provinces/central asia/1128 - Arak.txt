@@ -1,0 +1,7 @@
+owner=AKK
+controller=REB
+add_core=AKK
+add_core=PER
+add_core=QOM
+trade_goods = iron
+life_rating = 35

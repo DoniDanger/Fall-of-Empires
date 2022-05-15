@@ -1,0 +1,4 @@
+owner=CNK
+controller=CNK
+trade_goods = timber
+life_rating = 35

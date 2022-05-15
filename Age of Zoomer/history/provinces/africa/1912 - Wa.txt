@@ -1,0 +1,5 @@
+owner=BON
+controller=BON
+add_core=BON
+trade_goods = wool
+life_rating = 35

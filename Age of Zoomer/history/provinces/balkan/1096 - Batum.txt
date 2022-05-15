@@ -1,0 +1,7 @@
+owner=IME
+controller=IME
+add_core=GEO
+add_core=IME
+add_core=SME
+trade_goods = fish
+life_rating = 35

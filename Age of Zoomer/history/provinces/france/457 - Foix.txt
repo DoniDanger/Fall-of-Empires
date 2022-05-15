@@ -1,0 +1,10 @@
+owner=NAV
+controller=NAV
+add_core=AMG
+add_core=FOI
+add_core=FRA
+add_core=GYN
+add_core=NAV
+add_core=OCC
+trade_goods = grain
+life_rating = 32

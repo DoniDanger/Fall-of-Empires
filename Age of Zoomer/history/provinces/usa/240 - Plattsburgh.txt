@@ -1,0 +1,4 @@
+owner=MOH
+controller=MOH
+trade_goods = timber
+life_rating = 35

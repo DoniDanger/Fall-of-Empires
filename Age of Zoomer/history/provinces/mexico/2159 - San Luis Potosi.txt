@@ -1,0 +1,5 @@
+owner=CCM
+controller=CCM
+add_core=CCM
+trade_goods = grain
+life_rating = 35

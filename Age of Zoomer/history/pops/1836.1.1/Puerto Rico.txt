@@ -1,0 +1,107 @@
+2222 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 37316
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 794
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 1589
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 258
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 79
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 334
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 39048
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 574
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1638
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 266
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 82
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 344
+	}
+
+}

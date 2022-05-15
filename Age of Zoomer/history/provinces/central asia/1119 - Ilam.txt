@@ -1,0 +1,7 @@
+owner=AKK
+controller=REB
+add_core=AKK
+add_core=SRN
+add_core=X16
+trade_goods = cotton
+life_rating = 35

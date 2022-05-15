@@ -1,0 +1,6 @@
+owner=NHY
+controller=NHY
+add_core=MTC
+add_core=NHY
+trade_goods = grain
+life_rating = 31

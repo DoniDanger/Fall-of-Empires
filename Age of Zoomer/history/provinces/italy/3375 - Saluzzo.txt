@@ -1,0 +1,6 @@
+owner = SLZ
+controller = SLZ
+add_core = SLZ
+add_core = ITA
+trade_goods = fruit
+life_rating = 40

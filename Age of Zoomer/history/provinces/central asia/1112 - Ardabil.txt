@@ -1,0 +1,8 @@
+owner=ARL
+controller=ARL
+add_core=AKK
+add_core=ARL
+add_core=AZB
+add_core=BPI
+trade_goods = timber
+life_rating = 35

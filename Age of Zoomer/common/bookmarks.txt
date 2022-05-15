@@ -1,0 +1,8 @@
+bookmark =
+{
+	name = "FOE_NAME"
+	desc = "FOE_DESC"
+	date = 1500.1.1
+	cameraX = 2950 
+	cameraY = 1550
+}

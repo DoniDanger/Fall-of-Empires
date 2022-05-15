@@ -1,0 +1,5 @@
+owner=YKA
+controller=KON
+add_core=YKA
+trade_goods = grain
+life_rating = 10

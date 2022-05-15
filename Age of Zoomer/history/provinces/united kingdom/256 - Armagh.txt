@@ -1,0 +1,7 @@
+owner=X34
+controller=X34
+add_core=ENG
+add_core=IRE
+add_core=X34
+trade_goods = cattle
+life_rating = 35

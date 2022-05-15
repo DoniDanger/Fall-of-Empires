@@ -1,0 +1,6 @@
+owner=OHK
+controller=IST
+add_core=IST
+add_core=MSC
+trade_goods = cattle
+life_rating = 35
