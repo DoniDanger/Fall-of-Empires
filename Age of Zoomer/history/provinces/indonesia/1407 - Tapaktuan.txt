@@ -1,7 +1,0 @@
-owner=BRS
-controller=ATJ
-add_core=ATJ
-add_core=BRS
-add_core=MLY
-trade_goods = fish
-life_rating = 35

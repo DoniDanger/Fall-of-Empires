@@ -1,6 +1,0 @@
-owner = RGA
-controller = RGA
-add_core = RGA
-add_core = LIV
-trade_goods = cattle
-life_rating = 35

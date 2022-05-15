@@ -1,9 +1,0 @@
-owner=YAS
-controller=ORM
-add_core=ABU
-add_core=ARA
-add_core=ORM
-add_core=YAS
-trade_goods = fish
-life_rating = 31
-terrain = semidesert

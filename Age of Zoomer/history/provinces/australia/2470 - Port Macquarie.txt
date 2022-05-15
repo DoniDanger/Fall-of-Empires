@@ -1,5 +1,0 @@
-owner=AUI
-controller=AUI
-add_core=ABO
-trade_goods = grain
-life_rating = 33

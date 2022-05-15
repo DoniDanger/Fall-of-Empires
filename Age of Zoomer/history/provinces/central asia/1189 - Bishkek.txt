@@ -1,8 +1,0 @@
-owner=YRK
-controller=YRK
-add_core=CHG
-add_core=KOK
-add_core=TKS
-add_core=YRK
-trade_goods = wool
-life_rating = 35

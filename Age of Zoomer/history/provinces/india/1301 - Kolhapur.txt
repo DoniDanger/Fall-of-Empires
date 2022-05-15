@@ -1,6 +1,0 @@
-owner=BIJ
-controller=BIJ
-add_core=BIJ
-add_core=HND
-trade_goods = fish
-life_rating = 32

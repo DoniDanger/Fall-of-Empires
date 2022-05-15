@@ -1,6 +1,0 @@
-owner=RZW
-controller=RZW
-add_core=RZW
-trade_goods = grain
-life_rating = 10
-terrain = savanna

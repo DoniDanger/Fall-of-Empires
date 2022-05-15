@@ -1,8 +1,0 @@
-owner=MSY
-controller=MSY
-add_core=MSY
-add_core=PER
-add_core=X16
-trade_goods = cotton
-life_rating = 35
-terrain = semidesert

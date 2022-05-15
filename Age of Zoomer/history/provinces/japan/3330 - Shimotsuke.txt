@@ -1,6 +1,0 @@
-owner = UTN
-controller = UTN
-add_core = UTN
-add_core = ASK
-trade_goods = wool
-life_rating = 35

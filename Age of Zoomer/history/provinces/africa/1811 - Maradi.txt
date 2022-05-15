@@ -1,6 +1,0 @@
-owner=KTS
-controller=AYR
-add_core=KTS
-trade_goods = wool
-life_rating = 32
-terrain = semidesert

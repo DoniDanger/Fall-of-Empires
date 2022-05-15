@@ -1,8 +1,0 @@
-owner=INC
-controller=INC
-add_core=CJA
-add_core=CSU
-add_core=HJA
-add_core=INC
-trade_goods = coal
-life_rating = 35

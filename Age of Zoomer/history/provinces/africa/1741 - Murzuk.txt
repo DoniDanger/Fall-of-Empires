@@ -1,4 +1,0 @@
-owner=FZA
-controller=FZA
-trade_goods = fruit
-life_rating = 10

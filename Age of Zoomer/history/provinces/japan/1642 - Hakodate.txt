@@ -1,6 +1,0 @@
-owner= ASK
-controller= AIN
-add_core= AIN
-add_core= ASK
-trade_goods = fish
-life_rating = 35

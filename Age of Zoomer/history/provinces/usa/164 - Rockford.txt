@@ -1,5 +1,0 @@
-owner=PEO
-controller=PEO
-add_core=PEO
-trade_goods = coal
-life_rating = 35

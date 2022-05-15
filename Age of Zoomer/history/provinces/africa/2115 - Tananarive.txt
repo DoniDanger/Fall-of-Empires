@@ -1,8 +1,0 @@
-owner=MIR
-controller=BTS
-add_core=BTS
-add_core=MAD
-add_core=MIR
-trade_goods = wool
-life_rating = 35
-terrain = montane_forest

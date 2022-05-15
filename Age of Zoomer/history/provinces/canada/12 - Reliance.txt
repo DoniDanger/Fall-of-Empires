@@ -1,7 +1,0 @@
-owner=ASK
-controller=ASK
-add_core=ASK
-add_core=JAP
-trade_goods = precious_metal
-life_rating = 31
-terrain = small_island

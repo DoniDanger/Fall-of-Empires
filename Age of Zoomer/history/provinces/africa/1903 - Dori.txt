@@ -1,7 +1,0 @@
-owner=YAT
-controller=YAT
-add_core=YAT
-add_core=ZND
-trade_goods = cattle
-life_rating = 32
-terrain = semidesert

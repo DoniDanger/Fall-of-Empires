@@ -1,9 +1,0 @@
-owner=LIV
-controller=LIV
-add_core=EST
-add_core=LAT
-add_core=LIV
-add_core=UBD
-add_core=X17
-trade_goods = cattle
-life_rating = 35

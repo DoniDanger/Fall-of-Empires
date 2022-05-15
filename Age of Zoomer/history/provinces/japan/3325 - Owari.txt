@@ -1,6 +1,0 @@
-owner = ODA
-controller = ODA
-add_core = ODA
-add_core = ASK
-trade_goods = fruit
-life_rating = 35

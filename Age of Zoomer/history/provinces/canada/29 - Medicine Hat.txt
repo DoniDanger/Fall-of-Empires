@@ -1,8 +1,0 @@
-owner=SHY
-controller=SHY
-add_core=KAZ
-add_core=SHY
-add_core=TRX
-trade_goods = fruit
-life_rating = 15
-terrain = desert

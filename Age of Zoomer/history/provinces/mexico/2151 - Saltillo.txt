@@ -1,4 +1,0 @@
-owner=HST
-controller=HST
-trade_goods = dye
-life_rating = 35

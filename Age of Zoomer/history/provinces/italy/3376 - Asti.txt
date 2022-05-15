@@ -1,6 +1,0 @@
-owner = MFA
-controller = MFA
-add_core = MFA
-add_core = ITA
-trade_goods = fruit
-life_rating = 40

@@ -1,7 +1,0 @@
-owner=TUR
-controller=TUR
-add_core=CRI
-add_core=TUR
-add_core=ZAZ
-trade_goods = fish
-life_rating = 40

@@ -1,5 +1,0 @@
-owner=KIC
-controller=KIC
-add_core=KIC
-trade_goods = fish
-life_rating = 35

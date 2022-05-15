@@ -1,7 +1,0 @@
-owner=BRS
-controller=BRS
-add_core=ATJ
-add_core=BRS
-add_core=MLY
-trade_goods = wool
-life_rating = 35

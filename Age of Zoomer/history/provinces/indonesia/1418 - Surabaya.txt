@@ -1,7 +1,0 @@
-owner=MJP
-controller=DMK
-add_core=DMK
-add_core=JAV
-add_core=MJP
-trade_goods = sulphur
-life_rating = 35

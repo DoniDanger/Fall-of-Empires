@@ -1,7 +1,0 @@
-owner=AKK
-controller=AKK
-add_core=AKK
-add_core=AZB
-add_core=X32
-trade_goods = cotton
-life_rating = 35

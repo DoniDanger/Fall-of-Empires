@@ -1,9 +1,0 @@
-owner=OGD
-controller=ADA
-add_core=ADA
-add_core=MRE
-add_core=OGD
-add_core=SOM
-trade_goods = grain
-life_rating = 10
-terrain = dryhills

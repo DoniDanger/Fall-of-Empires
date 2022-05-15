@@ -1,5 +1,0 @@
-owner=YOK
-controller=AZT
-add_core=YOK
-trade_goods = iron
-life_rating = 35

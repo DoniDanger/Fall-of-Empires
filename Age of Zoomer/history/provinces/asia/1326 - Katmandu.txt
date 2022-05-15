@@ -1,8 +1,0 @@
-owner=KTU
-controller=KTU
-add_core=HND
-add_core=KTU
-add_core=LWA
-trade_goods = grain
-life_rating = 25
-fort = 2

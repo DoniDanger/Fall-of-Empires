@@ -1,7 +1,0 @@
-owner=AZT
-controller=AZT
-add_core=AZT
-add_core=TLX
-add_core=TOT
-trade_goods = grain
-life_rating = 35

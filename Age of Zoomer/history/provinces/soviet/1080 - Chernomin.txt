@@ -1,7 +1,0 @@
-owner=SOL
-controller=SOL
-add_core=CHI
-add_core=MCK
-add_core=SOL
-trade_goods = cattle
-life_rating = 35

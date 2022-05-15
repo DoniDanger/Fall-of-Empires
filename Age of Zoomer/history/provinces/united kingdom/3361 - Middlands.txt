@@ -1,6 +1,0 @@
-owner = KID
-controller = KID
-add_core = KID
-add_core = IRE
-trade_goods = cattle
-life_rating = 35

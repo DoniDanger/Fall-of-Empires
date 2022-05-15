@@ -1,6 +1,0 @@
-owner = NVK
-controller = NVK
-add_core = NVK
-add_core = MCK
-trade_goods = coal
-life_rating = 32

@@ -1,6 +1,0 @@
-owner=MGD
-controller=MGD
-add_core=LNO
-add_core=PHL
-trade_goods = iron
-life_rating = 35

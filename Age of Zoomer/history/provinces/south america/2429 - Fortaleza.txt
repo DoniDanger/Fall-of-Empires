@@ -1,6 +1,0 @@
-owner=PTW
-controller=PTW
-add_core=PTW
-trade_goods = fish
-life_rating = 35
-terrain = savanna

@@ -1,4 +1,0 @@
-owner=MSK
-controller=MSK
-trade_goods = fruit
-life_rating = 33

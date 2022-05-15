@@ -1,5 +1,0 @@
-owner=ERY
-controller=ERY
-add_core=ERY
-trade_goods = timber
-life_rating = 35

@@ -1,7 +1,0 @@
-owner=CST
-controller=CST
-add_core=CST
-add_core=SPA
-add_core=X14
-trade_goods = coal
-life_rating = 35

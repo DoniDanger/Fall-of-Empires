@@ -1,8 +1,0 @@
-owner=TEU
-controller=TEU
-add_core=LIT
-add_core=PRU
-add_core=TEU
-add_core=UBD
-trade_goods = fish
-life_rating = 40

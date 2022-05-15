@@ -1,8 +1,0 @@
-owner=ALH
-controller=ALH
-add_core=ALH
-add_core=ARA
-add_core=X03
-trade_goods = fish
-life_rating = 35
-terrain = semidesert

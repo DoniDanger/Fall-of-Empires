@@ -1,6 +1,0 @@
-owner=BKF
-controller=GUR
-add_core=BKF
-add_core=GUR
-trade_goods = wool
-life_rating = 35

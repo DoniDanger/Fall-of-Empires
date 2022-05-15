@@ -1,6 +1,0 @@
-owner = YMN
-controller = YMN
-add_core = YMN
-add_core = ASK
-trade_goods = fish
-life_rating = 35

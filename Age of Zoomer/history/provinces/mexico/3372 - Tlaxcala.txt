@@ -1,5 +1,0 @@
-owner = TLX
-controller = TLX
-add_core = TLX
-trade_goods = grain
-life_rating = 35

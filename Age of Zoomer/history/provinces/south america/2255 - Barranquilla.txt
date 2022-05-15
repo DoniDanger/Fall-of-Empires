@@ -1,4 +1,0 @@
-owner=TRO
-controller=TRO
-trade_goods = fish
-life_rating = 35

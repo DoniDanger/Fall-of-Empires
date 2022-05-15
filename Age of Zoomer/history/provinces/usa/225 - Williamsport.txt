@@ -1,6 +1,0 @@
-owner=SUS
-controller=SUS
-add_core=SUS
-trade_goods = coal
-life_rating = 35
-terrain = montane_forest

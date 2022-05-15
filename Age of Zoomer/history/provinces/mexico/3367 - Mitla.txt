@@ -1,5 +1,0 @@
-owner = ZAP
-controller = ZAP
-add_core = ZAP
-trade_goods = coffee
-life_rating = 35

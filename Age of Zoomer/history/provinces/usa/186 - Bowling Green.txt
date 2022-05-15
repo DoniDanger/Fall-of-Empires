@@ -1,6 +1,0 @@
-owner=KSP
-controller=CCA
-add_core=CCA
-add_core=KSP
-trade_goods = cattle
-life_rating = 35

@@ -1,5 +1,0 @@
-owner=WLY
-controller=WLY
-add_core=WLY
-trade_goods = grain
-life_rating = 10

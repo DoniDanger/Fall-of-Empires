@@ -1,5 +1,0 @@
-owner=KAQ
-controller=KAQ
-add_core=KAQ
-trade_goods = wool
-life_rating = 35

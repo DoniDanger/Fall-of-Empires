@@ -1,5 +1,0 @@
-owner=ABI
-controller=ABI
-add_core=ABI
-trade_goods = iron
-life_rating = 35

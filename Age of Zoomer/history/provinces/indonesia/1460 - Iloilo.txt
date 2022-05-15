@@ -1,6 +1,0 @@
-owner=MDS
-controller=MDS
-add_core=MDS
-add_core=PHL
-trade_goods = fruit
-life_rating = 35

@@ -1,8 +1,0 @@
-owner=DLH
-controller=DLH
-add_core=DLH
-add_core=PNJ
-add_core=PTA
-add_core=SRH
-trade_goods = cattle
-life_rating = 32

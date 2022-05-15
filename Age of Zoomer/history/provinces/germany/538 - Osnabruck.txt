@@ -1,8 +1,0 @@
-owner=MUN
-controller=MUN
-add_core=GER
-add_core=HLR
-add_core=MUN
-add_core=X22
-trade_goods = grain
-life_rating = 40

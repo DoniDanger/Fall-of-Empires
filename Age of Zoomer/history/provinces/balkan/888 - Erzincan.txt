@@ -1,5 +1,0 @@
-owner=AKK
-controller=REB
-add_core=ARM
-trade_goods = iron
-life_rating = 35

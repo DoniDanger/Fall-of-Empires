@@ -1,6 +1,0 @@
-owner=QAS
-controller=GRH
-add_core=GRH
-add_core=QAS
-trade_goods = grain
-life_rating = 35

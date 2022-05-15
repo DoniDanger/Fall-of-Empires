@@ -1,8 +1,0 @@
-owner=RAS
-controller=RAS
-add_core=ARA
-add_core=RAS
-add_core=YEM
-trade_goods = coffee
-life_rating = 35
-terrain = steppe

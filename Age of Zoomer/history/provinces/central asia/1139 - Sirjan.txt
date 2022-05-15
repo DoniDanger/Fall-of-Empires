@@ -1,8 +1,0 @@
-owner=AKK
-controller=REB
-add_core=AKK
-add_core=KHO
-add_core=PER
-add_core=X11
-trade_goods = iron
-life_rating = 35

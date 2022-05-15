@@ -1,6 +1,0 @@
-owner = MHX
-controller = MHX
-add_core = MHX
-add_core = MCK
-trade_goods = iron
-life_rating = 32

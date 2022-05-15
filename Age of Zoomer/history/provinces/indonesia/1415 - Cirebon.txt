@@ -1,7 +1,0 @@
-owner=CBO
-controller=CBO
-add_core=CBO
-add_core=DMK
-add_core=JAV
-trade_goods = coffee
-life_rating = 35

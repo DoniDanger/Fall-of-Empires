@@ -1,5 +1,0 @@
-owner=TSC
-controller=TSC
-add_core=TSC
-trade_goods = tobacco
-life_rating = 35

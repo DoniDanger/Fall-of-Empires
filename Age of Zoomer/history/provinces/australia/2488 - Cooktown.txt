@@ -1,5 +1,0 @@
-owner=AUA
-controller=AUA
-add_core=ABO
-trade_goods = tropical_wood
-life_rating = 31
